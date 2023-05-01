@@ -120,18 +120,18 @@ aside h2 {
     text-align: center;
 }
 
-.links {
-    padding: 30px;
-    margin-left: 125px;
-    display: inline-block;
+nav {
+    text-align: center;
+    padding: 10px;
 }
 
 nav > a {
     font-family: Blinker, sans-serif;
+    display: inline-block;
     background-color: rgba(0, 0, 0, 0.521);
     text-decoration: none;
     color: white;
-    padding: 15px;
+    padding: 10px;
     border-radius: 10px;
     box-shadow: 1px 2px 2px black;
     
